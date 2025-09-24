@@ -3,7 +3,7 @@
   
   <h2 align="center">
   <span style="font-size:24px; font-weight:bold;">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Umesh;Full+Stack+Developer%F0%9F%92%BB&center=true&size=24" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Umesh;I'Am+a+Full+Stack+Developer%F0%9F%92%BB&center=true&size=24" alt="Typing SVG"/>
   </span>
 </h2>
 
